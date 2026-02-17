@@ -5,3 +5,5 @@
 Proyecto Grupal App Web con Django
 
 Desde Pycharm conectado al PostgreSQL
+<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/ac18dd05-72a9-4cbf-846c-a96bc36ded06" />
+
